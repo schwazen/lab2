@@ -42,6 +42,6 @@
             </div>
         </div> <!-- Close Row 2 -->
     </div> <!-- Close container -->
-    <center><h3><a href="index2.html">Responsive Web</a></h3></center>
+    <center><h3><a href="index2.php">Responsive Web</a></h3></center>
 </body>
 </html>
